@@ -1,0 +1,5 @@
+# Local business data and uploads must never be committed
+data/
+assets/
+__pycache__/
+*.pyc
